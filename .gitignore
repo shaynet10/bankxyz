@@ -1,0 +1,9 @@
+node_modules/
+node_modules/*
+node_modules/**/*
+cypress/screenshots/
+cypress/screenshots/*
+cypress/screenshots/**/*
+cypress/videos/
+cypress/videos/*
+cypress/videos/**/*

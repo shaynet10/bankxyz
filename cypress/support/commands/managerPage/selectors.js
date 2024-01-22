@@ -1,0 +1,9 @@
+export const addCustomerTitleBtn = '[ng-click*=addCust]';
+export const openAccountTitleBtn = '[ng-click*=openAccount]';
+export const customersTitleBtn = '[ng-click*=showCust]';
+export const addCustomerFirstNameField = 'input[ng-model=fName]';
+export const addCustomerLastNameField = 'input[ng-model=lName]';
+export const addCustomerPostalCodeField = 'input[ng-model=postCd]';
+export const addCustomerButton = 'button[type=submit]';
+export const searchCustomerField = 'input[ng-model=searchCustomer]';
+export const tableLine = 'tr';
